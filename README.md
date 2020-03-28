@@ -14,8 +14,17 @@ The app start with asking for permission for GPS Location to be switched ON. The
 DATABASE
 
 Our datbase consists of all the required data about the registered parking slots under our app:- serial number, place's name,its coordinates,number of available slots,total slots
+
 1.The user enters a primary location
+
 2.We get the coordinates of the location using a gps tracker.
+
 3.The nearest location is found among the registered parking lots in our database
+
 4.The place name is display accordingly .
+
 5.The number of empty slots are shown.
+
+
+1 denotes slot is taken
+0 denotes slot is empty
