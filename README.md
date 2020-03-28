@@ -1,6 +1,9 @@
 # Quarantine-HackFest
 
 PROTOTYPE (GUI)
+
+
+
 APP UI
 We have created an App PullUp. 
 The app start with asking for permission for GPS Location to be switched ON. Then the user has to either randomly select the loaction he wants to visit/ see the parking availablity of or chooses to use GPS to find the nearby Places registered in the app PullUp with Parking facility. After the place has been selected. The user gets a booking choice of booking a parking slot in the parking arfea either before hand or while present in the location. Here the backend has to be connected for:
